@@ -1,24 +1,24 @@
 {
-  "name": "com.icewaternotice.package-example",
+  "name": "com.icewaternotice.sprite-outline-helper",
   "version": "1.2.3",
-  "displayName": "Package Example",
-  "description": "This is an example package",
+  "displayName": "Sprite Outline Helper",
+  "description": "This is a package that helps with sprite outlining",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
- },
- "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+  },
+  "keywords": [
+    "sprite",
+    "outline",
+    "helper"
   ],
   "author": {
-    "name": "Unity",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "name": "icewaternotice",
+    "email": "icewaternotice@gmail.com",
+    "url": "https://www.icewaternotice.com"
   }
 }
 
